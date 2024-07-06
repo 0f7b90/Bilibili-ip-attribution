@@ -3,21 +3,21 @@
 # 样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/filter.snippet
  
  # ======= 哔哩哔哩 ======= #
-DOMAIN-SUFFIX,biliapi.net,Bili-IP
-DOMAIN-SUFFIX,biliapi.com,Bili-IP 
-DOMAIN,api.bilibili.com,Bili-IP 
-DOMAIN,api.bilibili.tv,Bili-IP 
-DOMAIN,app.bilibili.com,Bili-IP 
-DOMAIN,api.live.bilibili.com,Bili-IP 
-DOMAIN,api.vc.bilibili.com,Bili-IP 
-DOMAIN,passport.bilibili.com,Bili-IP 
-DOMAIN,live-trace.bilibili.com,Bili-IP 
-DOMAIN,message.bilibili.com,Bili-IP 
-;DOMAIN,cm.bilibili.com,Bili-IP 
-DOMAIN-SUFFIX,bilibili.com,Bili-IP 
-DOMAIN-SUFFIX,im9.com,Bili-IP 
-DOMAIN-SUFFIX,acg.tv,Bili-IP 
-DOMAIN-SUFFIX,biligame.com,Bili-IP 
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,biliapi.com 
+DOMAIN,api.bilibili.com 
+DOMAIN,api.bilibili.tv 
+DOMAIN,app.bilibili.com 
+DOMAIN,api.live.bilibili.com 
+DOMAIN,api.vc.bilibili.com 
+DOMAIN,passport.bilibili.com 
+DOMAIN,live-trace.bilibili.com 
+DOMAIN,message.bilibili.com 
+;DOMAIN,cm.bilibili.com 
+DOMAIN-SUFFIX,bilibili.com 
+DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,acg.tv 
+DOMAIN-SUFFIX,biligame.com
 
 
 
