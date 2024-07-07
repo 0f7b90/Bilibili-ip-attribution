@@ -3,9 +3,4 @@
 DOMAIN-SUFFIX,ebscohost.com
 DOMAIN-SUFFIX,sysu.edu.cn
 
-PROCESS-NAME,localhost
-IP-CIDR,127.0.0.0/8
-DOMAIN,localhost
-DOMAIN-SUFFIX,local
-DOMAIN-KEYWORD,localhost
-DEST-PORT,1188
+
